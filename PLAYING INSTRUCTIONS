@@ -1,0 +1,5 @@
+The active player rolls the dice until he gets a 1 or until he presses "Hold". 
+The points he get by rolling the dice ads up on each other to the current score until he rolls a 1 or presses "Hold". 
+If he rolls 1 all of the current score is lost and it's the next players turn, 
+if the player presses "Hold" the points from current score are transfered to the main score and it's the next players turn. 
+Points in the main score are also summarized from the current score. Goal of the Game is too reach 100 main points and press "Hold".
